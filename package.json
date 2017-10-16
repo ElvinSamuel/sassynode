@@ -1,0 +1,25 @@
+{
+  "name": "sassnode",
+  "version": "1.0.0",
+  "description": "Using Sass With Node & NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvinSamuel/sassynode.git"
+  },
+  "keywords": [
+    "Sass",
+    "Node",
+    "NPM",
+    "Sassy"
+  ],
+  "author": "Elvin M. Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvinSamuel/sassynode/issues"
+  },
+  "homepage": "https://github.com/ElvinSamuel/sassynode#readme"
+}
