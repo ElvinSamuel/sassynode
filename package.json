@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ElvinSamuel/sassynode/issues"
   },
-  "homepage": "https://github.com/ElvinSamuel/sassynode#readme"
+  "homepage": "https://github.com/ElvinSamuel/sassynode#readme",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
 }
